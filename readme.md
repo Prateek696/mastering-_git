@@ -1,3 +1,3 @@
-hello git 
+Welcome to git 
 
-new things are being added 
+this is new commit in learning git ok?
